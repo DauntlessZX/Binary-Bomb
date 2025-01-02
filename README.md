@@ -9,6 +9,7 @@ What is a Binary Bomb?
 
 In the folder above, we have 3 files :
 
-- bomb.c         This is the bomb in C code
-- bomb           An executable file for you to run and debug from
-- solutions.txt  Solutions to defuse the bomb
+- bomb.c         This is the bomb in C code.
+- bomb           An executable file for you to run and debug from.
+- solutions.txt  Solutions to defuse the bomb.
+- bomb153.tar    A compressed file of the project.
