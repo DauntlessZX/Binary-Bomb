@@ -3,8 +3,11 @@ This is a Binary Bomb Lab assignment from my course on Computer Architecture at 
 The purpose of this lab assignment is to familiarize students with machine-level programs and tools, as well as develop debugging and reverse-engineering skills.
 
 What is a Binary Bomb?
+
 ⊚ A program with multiple phases.
+
 ⊚ Each phase requires a specific input to defuse.
+
 ⊚ Incorrect input results in an explosion.
 
 In the folder above, we have 3 files :
